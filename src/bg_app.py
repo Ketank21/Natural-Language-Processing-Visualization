@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
+#import seaborn as sns
 import plotly.express as px
 from utils import df_bg_kaggle,df_verse_list,df2,Chapter_Topics
 from word_network import network_graph
