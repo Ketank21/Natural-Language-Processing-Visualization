@@ -22,8 +22,6 @@ PyMeeus==0.5.11
 pymongo==3.12.0
 Pympler==0.9
 pynndescent==0.5.5
-pyodbc===4.0.0-unsupported
-pyproj==3.2.1
 pytest==6.2.3
 scikit-learn==1.0
 Shapely==1.8.0
