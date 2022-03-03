@@ -18,12 +18,12 @@ from gensim.models.word2vec import Word2Vec
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Import Word2Vec models for Continous bag of words and Skipgram created from Jupyter notebook
-model_cbow =Word2Vec.load('../data/w2v_fp.model')
+model_cbow =Word2Vec.load('data/w2v_fp.model')
 
-model_sg =Word2Vec.load('../data/w2v_sg.model')
+model_sg =Word2Vec.load('data/w2v_sg.model')
 
 # Import the word list of possible words related to Bhagavad Gita 
-with open('../data/list_gita.txt') as d:
+with open('data/list_gita.txt') as d:
     list_words=d.read().split('\n')
 
 # Importing different dataframes to be used by the app
