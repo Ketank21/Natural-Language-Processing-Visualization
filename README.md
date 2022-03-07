@@ -10,5 +10,14 @@
 - how the models perfrom when analysing complex text like the Bhagawat Gita
 ####
 
+## References ##
+### 
+- https://www.holy-bhagavad-gita.org/Index
+- https://github.com/KVZand/Sumerian-Semantics
+- https://github.com/bhattbhavesh91/Top2Vec-Demo
+- Interactive Word Embeddings using Word2Vec and Plotly-by Coursera Project Network https://www.coursera.org/projects/interactive-word2vec)
+- https://www.kaggle.com/anu0012/bhagavad-gita-eda
+
+###
 
 
